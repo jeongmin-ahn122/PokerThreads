@@ -1,0 +1,147 @@
+LET'S PLAY BLACKJACK!!!!
+Player 0 has been made
+Player 1 has been made
+Player 2 has been made
+Player 3 has been made
+Player 3 was dealt 6 of s
+Player 1 was dealt 4 of s
+Player 1 was dealt 6 of h
+Player 2 was dealt 2 of d
+Player 2 was dealt j of s
+Player 3 was dealt 2 of s
+Player 0 was dealt 6 of s
+Player 0 was dealt 9 of d
+Player 0 was dealt 8 of c
+Player 1 was dealt 7 of s
+Player 2 was dealt j of c
+Player 3 was dealt j of c
+Player 3 bet $10 Current player's pot: 10
+Player 3 was has a total value of 18
+Player 2 bet $10 Current player's pot: 10
+Player 2 was has a total value of 22
+Player 0 bet $10 Current player's pot: 10
+Player 0 was has a total value of 23
+Player 1 bet $10 Current player's pot: 10
+Player 1 was has a total value of 17
+Player 0 was dealt 9 of c
+Player 3 has 18
+Player 1 has 17
+Player 2 BUSTED. Fork over your money.
+Player 2's bank now has $40.
+Player 2 was dealt j of h
+Player 3 lost. Fork over your money.
+Player 3's bank now has $40.
+Player 3 was dealt 2 of h
+Player 3 was dealt k of h
+Player 0 was dealt a of s
+Player 2 was dealt a of d
+Player 1 lost. Fork over your money.
+Player 1's bank now has $40.
+Player 1 was dealt t of h
+Player 1 was dealt 5 of d
+Player 1 was dealt 6 of c
+Player 2 was dealt 5 of s
+Player 2 bet $10 Current player's pot: 10
+Player 2 was has a total value of 26
+Player 1 bet $10 Current player's pot: 10
+Player 1 was has a total value of 21
+Player 0 was dealt 8 of h
+Player 0 bet $10 Current player's pot: 20
+Player 0 was has a total value of 41
+Player 3 was dealt t of d
+Player 3 bet $10 Current player's pot: 10
+Player 3 was has a total value of 22
+Player 3 BUSTED. Fork over your money.
+Player 3's bank now has $30.
+Player 3 was dealt 7 of c
+Player 3 was dealt q of h
+Player 2 BUSTED. Fork over your money.
+Player 2's bank now has $30.
+Player 2 was dealt q of s
+Player 2 was dealt 6 of d
+Player 0 was dealt a of h
+Player 0 was dealt 8 of d
+Player 1 has 21
+Player 1 lost. Fork over your money.
+Player 1's bank now has $30.
+Player 1 was dealt k of c
+Player 1 was dealt 3 of s
+Player 0 was dealt a of c
+Player 3 was dealt k of d
+Player 1 was dealt 3 of d
+Player 2 was dealt 3 of d
+Player 2 bet $10 Current player's pot: 10
+Player 3 bet $10 Current player's pot: 10
+Player 1 bet $10 Current player's pot: 10
+Player 1 was has a total value of 16
+Player 2 was has a total value of 19
+Player 0 bet $10 Current player's pot: 30
+Player 0 was has a total value of 61
+Player 3 was has a total value of 27
+Player 0 was dealt 5 of h
+Player 1 has 16
+Player 3 BUSTED. Fork over your money.
+Player 3's bank now has $20.
+Player 3 was dealt q of d
+Player 3 was dealt 5 of c
+Player 2 has 19
+Player 2 lost. Fork over your money.
+Player 2's bank now has $20.
+Player 2 was dealt 4 of d
+Player 2 was dealt 7 of d
+Player 1 lost. Fork over your money.
+Player 1's bank now has $20.
+Player 1 was dealt 4 of h
+Player 1 was dealt 3 of h
+Player 0 was dealt t of c
+Player 0 was dealt j of d
+Player 3 was dealt 8 of s
+Player 3 bet $10 Current player's pot: 10
+Player 3 was has a total value of 23
+Player 0 bet $10 Current player's pot: 40
+Player 0 was has a total value of 76
+Player 1 was dealt q of c
+Player 1 bet $10 Current player's pot: 10
+Player 1 was has a total value of 17
+Player 2 was dealt j of d
+Player 2 bet $10 Current player's pot: 10
+Player 2 was has a total value of 21
+Player 2 has 21
+Player 2 lost. Fork over your money.
+Player 2's bank now has $10.
+Player 2 was dealt k of s
+Player 2 was dealt t of s
+Player 3 BUSTED. Fork over your money.
+Player 3's bank now has $10.
+Player 3 was dealt 3 of c
+Player 1 has 17
+Player 1 lost. Fork over your money.
+Player 1's bank now has $10.
+Player 1 was dealt 9 of s
+Player 1 was dealt 9 of h
+Player 3 was dealt 2 of c
+Player 0 was dealt 7 of h
+Player 0 was dealt t of d
+Player 0 was dealt  of 
+Player 2 was dealt q of h
+Player 2 bet $10 Current player's pot: 10
+Player 1 was dealt  of 
+Player 1 bet $10 Current player's pot: 10
+Player 1 was has a total value of 18
+Player 0 bet $10 Current player's pot: 50
+Player 0 was has a total value of 83
+Player 3 was dealt j of c
+Player 3 bet $10 Current player's pot: 10
+Player 3 was has a total value of 15
+Player 2 was has a total value of 30
+Player 3 has 15
+Player 3 lost. Fork over your money.
+Player 3's bank now has $0.
+Player 3 is bankrupt. How unfortunate.
+Player 1 has 18
+Player 1 lost. Fork over your money.
+Player 1's bank now has $0.
+Player 1 is bankrupt. How unfortunate.
+Player 2 BUSTED. Fork over your money.
+Player 2's bank now has $0.
+Player 2 is bankrupt. How unfortunate.
